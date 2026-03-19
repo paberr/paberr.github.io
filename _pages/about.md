@@ -7,7 +7,7 @@ subtitle: AI Safety, Cryptography & Privacy (ZKPs, Blockchain, Machine Learning)
 profile:
   align: right
   image: profile.jpg
-  more_info: Birmingham, UK and Saarbrücken, Germany
+  more_info: Birmingham, UK and Munich, Germany
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
