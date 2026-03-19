@@ -3,14 +3,14 @@ layout: page
 title: hiring
 permalink: /hiring/
 
-nav: true
+nav: false
 ---
 
 I am currently looking for students in the following areas:
 - Machine learning security and privacy
 - Blockchain security and privacy
 
-This includes full-time Ph.D. students and [CSC visiting Ph.D. students]({% link _news/announcement_1.md %})!
+This includes full-time Ph.D. students and CSC visiting Ph.D. students!
 
 Requirements:
 - A bachelor/master degree in Computer Science, Information Security, or Mathematics
