@@ -1,5 +1,5 @@
 ---
-title:  Security & Networks
+title: Security & Networks
 year: 2022
 semester: Spring
 type: Lecture

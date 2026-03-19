@@ -1,10 +1,7 @@
 cv:
   name: Pascal Berrang
-  label: Associate Professor
   email: contact@paberr.net
   location: Birmingham, UK
-  image: ""
-  summary: Associate Professor in Computer Science at the University of Birmingham and Co-Founder & CTO of Zeroth Research. Research focuses on AI Safety, Cryptography, and Privacy.
 
   social_networks:
     - network: GitHub
@@ -48,7 +45,6 @@ cv:
         location: Birmingham, UK
         url: https://birmingham.ac.uk
         start_date: 2024-10
-        end_date: ""
         summary: Promoted from Lecturer/Assistant Professor. Research in AI Safety, Cryptography, and Privacy.
 
       - company: University of Birmingham
@@ -63,7 +59,6 @@ cv:
         location: Birmingham, UK
         url: https://zeroth.org
         start_date: 2025-07
-        end_date: ""
         summary: Non-profit startup making intelligent systems safe, with mathematical certainty.
 
       - company: Nimiq
@@ -71,7 +66,6 @@ cv:
         location: Munich, Germany
         url: https://nimiq.com
         start_date: 2017-04
-        end_date: ""
         summary: Applied cryptography, zero-knowledge proofs, and consensus protocols for a blockchain project.
 
       - company: CISPA Helmholtz Center for Information Security
@@ -83,34 +77,48 @@ cv:
 
     Awards:
       - title: Dr. Eduard Martin-Award
+        authors:
+          - "Saarland University"
         date: 2019
         awarder: Saarland University
         summary: Best PhD thesis in the category of mathematics and computer science.
 
       - title: Distinguished Paper Award
+        authors:
+          - "Network and Distributed Security Symposium (NDSS'19)"
         date: 2019
         awarder: Network and Distributed Security Symposium (NDSS'19)
         summary: "For the paper MBeacon: Privacy-Preserving Beacons for DNA Methylation Data."
 
       - title: "Nomination: Deutscher Studienpreis"
+        authors:
+          - "Körber Stiftung"
         date: 2019
         awarder: Körber Stiftung
         summary: One of 10 nominees for the excellent thesis award.
 
       - title: "Nomination: GI-Dissertationspreis"
+        authors:
+          - "German Informatics Society"
         date: 2019
         awarder: German Informatics Society
         summary: One of 28 nominees for the excellent thesis award.
 
       - title: Graduate Scholarship
+        authors:
+          - "Saarland University"
         date: 2013
         awarder: Saarland University
 
       - title: Deutschlandstipendium
+        authors:
+          - "Germany Scholarship"
         date: 2012
         awarder: Germany Scholarship
 
       - title: Saarland Scholarship
+        authors:
+          - "Studienstiftung Saar"
         date: 2011
         awarder: Studienstiftung Saar
 

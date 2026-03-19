@@ -29,9 +29,9 @@ I am an Associate Professor in Computer Science – Computer Security at the [Un
 
 I currently lead an [ARIA](https://www.aria.org.uk/)-funded project on [privacy-preserving AI safety verification](https://aria.org.uk/opportunity-spaces/mathematics-for-safe-ai/safeguarded-ai/meet-the-creators/?tabId=scaffolding-sociotechnical-integration&cardId=privacy-preserving-ai-safety-verification) (with [Mirco Giacobbe](https://mircogiacobbe.github.io/) and [Yang Zhang](https://yangzhangalmo.github.io/)), developing foundations for verifying AI safety guarantees without revealing sensitive model or data details. I also lead a [Foresight Institute](https://foresight.org/)-funded project on ZK attestation for AI security (with [Luca Arnaboldi](http://arnaboldiluca.eu/)), and an [InnovateUK CyberASAP](https://iuk.ktn-uk.org/programme/cyber-asap/)-funded project on identifying money laundering on the blockchain.
 
-I am a [SPAR](https://sparai.org) mentor for two Spring 2026 projects bridging AI safety and zero-knowledge proofs: *Proving Model Equality in Zero-Knowledge* and *Proving Safety Properties of Guardrail Models* (with [Luca Arnaboldi](http://arnaboldiluca.eu/)).
+I am a [SPAR](https://sparai.org) mentor for two Spring 2026 projects bridging AI safety and zero-knowledge proofs: _Proving Model Equality in Zero-Knowledge_ and _Proving Safety Properties of Guardrail Models_ (with [Luca Arnaboldi](http://arnaboldiluca.eu/)).
 
-Previously, I completed my PhD in the Information Security and Cryptography Group at [Saarland University](https://uni-saarland.de) under supervision of [Michael Backes](https://cispa.saarland/director/). My thesis, *Quantifying and Mitigating Privacy Risks in Biomedical Data*, received the *Dr. Eduard-Martin Award 2019* for the best PhD thesis in mathematics and computer science.
+Previously, I completed my PhD in the Information Security and Cryptography Group at [Saarland University](https://uni-saarland.de) under supervision of [Michael Backes](https://cispa.saarland/director/). My thesis, _Quantifying and Mitigating Privacy Risks in Biomedical Data_, received the _Dr. Eduard-Martin Award 2019_ for the best PhD thesis in mathematics and computer science.
 
 ## research areas
 
