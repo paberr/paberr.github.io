@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Safety, Cryptography & Privacy (ZKPs, Blockchain, Machine Learning)
+subtitle: AI Safety · Zero-Knowledge Proofs · Cryptography
 
 profile:
   align: right
@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -23,17 +23,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Associate Professor in Computer Science – Computer Security at the [University of Birmingham, UK](https://www.birmingham.ac.uk) and Co-Founder & CTO of [Zeroth Research](https://zeroth.org), where we make intelligent systems safe, with mathematical certainty.
+My research applies cryptography and zero-knowledge proofs to problems in AI security, privacy, and safety. I build tools that let us verify properties of AI systems — without revealing the models or data behind them.
 
-My research focuses on AI Safety, Cryptography, and Privacy. I am currently leading an [ARIA](https://www.aria.org.uk/)-funded project on privacy-preserving AI safety verification using zero-knowledge proofs (with [Mirco Giacobbe](https://mircogiacobbe.github.io/)), and a [Foresight Institute](https://foresight.org/)-funded project on ZK attestation for AI security (with [Luca Arnaboldi](http://arnaboldiluca.eu/)). I also lead an [InnovateUK CyberASAP](https://iuk.ktn-uk.org/programme/cyber-asap/)-funded project on identifying money laundering on the blockchain.
+I am an Associate Professor in Computer Science – Computer Security at the [University of Birmingham, UK](https://www.birmingham.ac.uk) and Co-Founder & CTO of [Zeroth Research](https://zeroth.org), a non-profit startup making intelligent systems safe, with mathematical certainty.
 
-Previously, I was a freelance researcher & consultant, specialising in blockchain technology (e.g., [Nimiq](https://nimiq.com)).
-Prior to that, I completed my PhD in the Information Security and Cryptography Group at [Saarland University](https://uni-saarland.de) under supervision of [Michael Backes](https://cispa.saarland/director/). My PhD thesis has the title *Quantifying and Mitigating Privacy Risks in Biomedical Data*. My thesis received the *Dr. Eduard-Martin award 2019* for the best PhD thesis in the category in mathematics and computer science.
-I obtained my Bachelor degree from [Saarland University](https://uni-saarland.de) in 2013, before joining the Graduate School of Computer Science there.
+I currently lead an [ARIA](https://www.aria.org.uk/)-funded project on [privacy-preserving AI safety verification](https://aria.org.uk/opportunity-spaces/mathematics-for-safe-ai/safeguarded-ai/meet-the-creators/?tabId=scaffolding-sociotechnical-integration&cardId=privacy-preserving-ai-safety-verification) (with [Mirco Giacobbe](https://mircogiacobbe.github.io/) and [Yang Zhang](https://yangzhangalmo.github.io/)), developing foundations for verifying AI safety guarantees without revealing sensitive model or data details. I also lead a [Foresight Institute](https://foresight.org/)-funded project on ZK attestation for AI security (with [Luca Arnaboldi](http://arnaboldiluca.eu/)), and an [InnovateUK CyberASAP](https://iuk.ktn-uk.org/programme/cyber-asap/)-funded project on identifying money laundering on the blockchain.
+
+I am a [SPAR](https://sparai.org) mentor for two Spring 2026 projects bridging AI safety and zero-knowledge proofs: *Proving Model Equality in Zero-Knowledge* and *Proving Safety Properties of Guardrail Models* (with [Luca Arnaboldi](http://arnaboldiluca.eu/)).
+
+Previously, I completed my PhD in the Information Security and Cryptography Group at [Saarland University](https://uni-saarland.de) under supervision of [Michael Backes](https://cispa.saarland/director/). My thesis, *Quantifying and Mitigating Privacy Risks in Biomedical Data*, received the *Dr. Eduard-Martin Award 2019* for the best PhD thesis in mathematics and computer science.
 
 ## research areas
 
-- AI Safety and Zero-Knowledge Proofs
+- AI Safety and Formal Verification
+- Zero-Knowledge Proofs for AI and Blockchain
 - Security and Privacy of Machine Learning
-- Security and Privacy of Blockchain Technology
-- Security and Privacy of Health Data
+- Blockchain Security and Compliance

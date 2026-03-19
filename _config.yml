@@ -9,11 +9,11 @@ email: contact@paberr.net
 contact_note: >
   The best way to reach me is probably via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Associate Professor at University of Birmingham
+  Associate Professor researching AI Safety, Zero-Knowledge Proofs, and Cryptography at the University of Birmingham
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: AI safety, zero-knowledge proofs, cryptography, machine learning security, blockchain security, Pascal Berrang
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎓 # the emoji used as the favicon
 
