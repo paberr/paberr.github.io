@@ -75,3 +75,52 @@
   padding-left: 18px;
   margin-bottom: 0;
 }
+
+/* Custom teaching list styles (publications-like layout) */
+.teaching {
+  margin-top: 2rem;
+
+  h2.year {
+    color: var(--global-divider-color);
+    border-top: 1px solid var(--global-divider-color);
+    padding-top: 1rem;
+    margin-top: 2rem;
+    text-align: right;
+  }
+
+  ol.courses {
+    list-style: none;
+    padding: 0;
+    margin-top: 0;
+
+    li {
+      margin-bottom: 1rem;
+
+      .abbr {
+        margin-bottom: 0.5rem;
+
+        abbr {
+          display: inline-block;
+          background-color: var(--global-theme-color);
+          margin-bottom: 0.5rem;
+          color: var(--global-card-bg-color) !important;
+        }
+      }
+
+      .title {
+        font-weight: bolder;
+      }
+
+      .role {
+        a {
+          border-bottom: 1px dashed var(--global-theme-color);
+
+          &:hover {
+            border-bottom-style: solid;
+            text-decoration: none;
+          }
+        }
+      }
+    }
+  }
+}
