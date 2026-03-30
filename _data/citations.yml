@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-25'
+  last_updated: '2026-03-30'
 papers:
   z46F9RgAAAAJ:-f6ydRqryjwC:
-    citations: 57
+    citations: 58
     title: Fine-tuning is all you need to mitigate backdoor attacks
     year: '2022'
   z46F9RgAAAAJ:0EnyYjriUFMC:
@@ -86,7 +86,7 @@ papers:
     title: EuroSP 2018
     year: Unknown Year
   z46F9RgAAAAJ:UebtZRa9Y70C:
-    citations: 196
+    citations: 197
     title: Membership privacy in MicroRNA-based studies
     year: '2016'
   z46F9RgAAAAJ:W7OEmFMy1HYC:
@@ -124,13 +124,13 @@ papers:
   z46F9RgAAAAJ:_Qo2XoVZTnwC:
     citations: 5
     title: 'SoK: Descriptive statistics under local differential privacy'
-    year: '2025'
+    year: '2024'
   z46F9RgAAAAJ:_kc_bZDykSQC:
     citations: 25
     title: Privacy-preserving similar patient queries for combined biomedical data
     year: '2019'
   z46F9RgAAAAJ:aqlVkmm33-oC:
-    citations: 1400
+    citations: 1404
     title: 'Ml-leaks: Model and data independent membership inference attacks and defenses on machine learning models'
     year: '2018'
   z46F9RgAAAAJ:d1gkVwhDpl0C:
