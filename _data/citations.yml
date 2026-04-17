@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-17'
 papers:
   z46F9RgAAAAJ:-f6ydRqryjwC:
-    citations: 58
+    citations: 60
     title: Fine-tuning is all you need to mitigate backdoor attacks
     year: '2022'
   z46F9RgAAAAJ:0EnyYjriUFMC:
@@ -18,7 +18,7 @@ papers:
     title: C ISPA
     year: Unknown Year
   z46F9RgAAAAJ:4JMBOYKVnBMC:
-    citations: 0
+    citations: 1
     title: '3S-Attack: Spatial, Spectral and Semantic Invisible Backdoor Attack Against DNN Models'
     year: '2025'
   z46F9RgAAAAJ:4TOpqqG69KYC:
@@ -42,7 +42,7 @@ papers:
     title: "Quantifizierung und Schutz der Privatsph\xE4re in der (Epi-) genetik1"
     year: Unknown Year
   z46F9RgAAAAJ:IWHjjKOFINEC:
-    citations: 4
+    citations: 5
     title: Accountable javascript code delivery
     year: '2022'
   z46F9RgAAAAJ:L8Ckcad2t8MC:
@@ -130,7 +130,7 @@ papers:
     title: Privacy-preserving similar patient queries for combined biomedical data
     year: '2019'
   z46F9RgAAAAJ:aqlVkmm33-oC:
-    citations: 1410
+    citations: 1424
     title: 'Ml-leaks: Model and data independent membership inference attacks and defenses on machine learning models'
     year: '2018'
   z46F9RgAAAAJ:d1gkVwhDpl0C:
@@ -138,11 +138,11 @@ papers:
     title: A comparative analysis of decentralized power grid stabilization strategies
     year: '2012'
   z46F9RgAAAAJ:e5wmG9Sq2KIC:
-    citations: 4
+    citations: 5
     title: "Measuring Conditional Anonymity\u2014A Global Study"
     year: '2024'
   z46F9RgAAAAJ:hC7cP41nSMkC:
-    citations: 86
+    citations: 87
     title: Data poisoning attacks against multimodal encoders
     year: '2023'
   z46F9RgAAAAJ:hFOr9nPyWt4C:
