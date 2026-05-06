@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-06'
 papers:
   z46F9RgAAAAJ:-f6ydRqryjwC:
-    citations: 60
+    citations: 62
     title: Fine-tuning is all you need to mitigate backdoor attacks
     year: '2022'
   z46F9RgAAAAJ:0EnyYjriUFMC:
-    citations: 34
+    citations: 35
     title: On profile linkability despite anonymity in social media systems
     year: '2016'
   z46F9RgAAAAJ:3fE2CSJIrl8C:
@@ -58,7 +58,7 @@ papers:
     title: 'How well do you blend into the crowd?-d-convergence: A novel paradigm for quantifying privacy in the age of Big-Data'
     year: '2015'
   z46F9RgAAAAJ:QIV2ME_5wuYC:
-    citations: 87
+    citations: 88
     title: On how zero-knowledge proof blockchain mixers improve, and worsen user privacy
     year: '2023'
   z46F9RgAAAAJ:R3hNpaxXUhUC:
@@ -86,7 +86,7 @@ papers:
     title: EuroSP 2018
     year: Unknown Year
   z46F9RgAAAAJ:UebtZRa9Y70C:
-    citations: 197
+    citations: 198
     title: Membership privacy in MicroRNA-based studies
     year: '2016'
   z46F9RgAAAAJ:W7OEmFMy1HYC:
@@ -114,7 +114,7 @@ papers:
     title: How well do you blend into the crowd?
     year: '2015'
   z46F9RgAAAAJ:Zph67rFs4hoC:
-    citations: 62
+    citations: 63
     title: 'MBeacon: Privacy-preserving beacons for DNA methylation data'
     year: '2019'
   z46F9RgAAAAJ:_FxGoFyzp5QC:
@@ -122,7 +122,7 @@ papers:
     title: Tracking Personal MicroRNA Expression Profiles over Time
     year: '2016'
   z46F9RgAAAAJ:_Qo2XoVZTnwC:
-    citations: 5
+    citations: 6
     title: 'SoK: Descriptive statistics under local differential privacy'
     year: '2024'
   z46F9RgAAAAJ:_kc_bZDykSQC:
@@ -130,7 +130,7 @@ papers:
     title: Privacy-preserving similar patient queries for combined biomedical data
     year: '2019'
   z46F9RgAAAAJ:aqlVkmm33-oC:
-    citations: 1430
+    citations: 1444
     title: 'Ml-leaks: Model and data independent membership inference attacks and defenses on machine learning models'
     year: '2018'
   z46F9RgAAAAJ:d1gkVwhDpl0C:
@@ -142,7 +142,7 @@ papers:
     title: "Measuring Conditional Anonymity\u2014A Global Study"
     year: '2024'
   z46F9RgAAAAJ:hC7cP41nSMkC:
-    citations: 87
+    citations: 89
     title: Data poisoning attacks against multimodal encoders
     year: '2023'
   z46F9RgAAAAJ:hFOr9nPyWt4C:
@@ -174,7 +174,7 @@ papers:
     title: Evasion Under Blockchain Sanctions
     year: '2026'
   z46F9RgAAAAJ:roLk4NBRz8UC:
-    citations: 39
+    citations: 40
     title: 'Privacy in Epigenetics: Temporal Linkability of MicroRNA Expression Profiles'
     year: Unknown Year
   z46F9RgAAAAJ:u5HHmVD_uO8C:
