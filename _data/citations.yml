@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-15'
 papers:
   z46F9RgAAAAJ:-f6ydRqryjwC:
     citations: 62
@@ -114,7 +114,7 @@ papers:
     title: How well do you blend into the crowd?
     year: '2015'
   z46F9RgAAAAJ:Zph67rFs4hoC:
-    citations: 63
+    citations: 64
     title: 'MBeacon: Privacy-preserving beacons for DNA methylation data'
     year: '2019'
   z46F9RgAAAAJ:_FxGoFyzp5QC:
@@ -130,9 +130,13 @@ papers:
     title: Privacy-preserving similar patient queries for combined biomedical data
     year: '2019'
   z46F9RgAAAAJ:aqlVkmm33-oC:
-    citations: 1444
+    citations: 1454
     title: 'Ml-leaks: Model and data independent membership inference attacks and defenses on machine learning models'
     year: '2018'
+  z46F9RgAAAAJ:bEWYMUwI8FkC:
+    citations: 0
+    title: 'Beyond Red-Teaming: Formal Guarantees of LLM Guardrail Classifiers'
+    year: '2026'
   z46F9RgAAAAJ:d1gkVwhDpl0C:
     citations: 25
     title: A comparative analysis of decentralized power grid stabilization strategies
@@ -149,6 +153,10 @@ papers:
     citations: 0
     title: 2018 Index IEEE/ACM Transactions on Computational Biology and Bioinformatics Vol. 15
     year: '2019'
+  z46F9RgAAAAJ:iH-uZ7U-co4C:
+    citations: 0
+    title: Zero-Knowledge Model Checking
+    year: '2026'
   z46F9RgAAAAJ:j3f4tGmQtD8C:
     citations: 0
     title: IEEE Blockchain 2023 Program Committee
@@ -162,7 +170,7 @@ papers:
     title: Security Competitions
     year: '2016'
   z46F9RgAAAAJ:qUcmZB5y_30C:
-    citations: 18
+    citations: 20
     title: A framework for constructing single secret leader election from MPC
     year: '2022'
   z46F9RgAAAAJ:qxL8FJ1GzNcC:
