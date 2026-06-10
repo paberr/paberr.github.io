@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-06-10'
 papers:
   z46F9RgAAAAJ:-f6ydRqryjwC:
-    citations: 62
+    citations: 66
     title: Fine-tuning is all you need to mitigate backdoor attacks
     year: '2022'
   z46F9RgAAAAJ:0EnyYjriUFMC:
@@ -58,11 +58,11 @@ papers:
     title: 'How well do you blend into the crowd?-d-convergence: A novel paradigm for quantifying privacy in the age of Big-Data'
     year: '2015'
   z46F9RgAAAAJ:QIV2ME_5wuYC:
-    citations: 89
+    citations: 92
     title: On how zero-knowledge proof blockchain mixers improve, and worsen user privacy
     year: '2023'
   z46F9RgAAAAJ:R3hNpaxXUhUC:
-    citations: 11
+    citations: 13
     title: Link stealing attacks against inductive graph neural networks
     year: '2024'
   z46F9RgAAAAJ:RHpTSmoSYBkC:
@@ -130,7 +130,7 @@ papers:
     title: Privacy-preserving similar patient queries for combined biomedical data
     year: '2019'
   z46F9RgAAAAJ:aqlVkmm33-oC:
-    citations: 1459
+    citations: 1467
     title: 'Ml-leaks: Model and data independent membership inference attacks and defenses on machine learning models'
     year: '2018'
   z46F9RgAAAAJ:bEWYMUwI8FkC:
@@ -146,7 +146,7 @@ papers:
     title: "Measuring Conditional Anonymity\u2014A Global Study"
     year: '2024'
   z46F9RgAAAAJ:hC7cP41nSMkC:
-    citations: 89
+    citations: 90
     title: Data poisoning attacks against multimodal encoders
     year: '2023'
   z46F9RgAAAAJ:hFOr9nPyWt4C:
@@ -182,7 +182,7 @@ papers:
     title: Evasion Under Blockchain Sanctions
     year: '2026'
   z46F9RgAAAAJ:roLk4NBRz8UC:
-    citations: 40
+    citations: 41
     title: 'Privacy in Epigenetics: Temporal Linkability of MicroRNA Expression Profiles'
     year: Unknown Year
   z46F9RgAAAAJ:u5HHmVD_uO8C:
