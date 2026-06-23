@@ -23,9 +23,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My research applies cryptography and zero-knowledge proofs to problems in AI security, privacy, and safety. I build tools that let us verify properties of AI systems — without revealing the models or data behind them.
+My research applies cryptography and zero-knowledge proofs to problems in AI security, privacy, and safety. I build tools that let us verify properties of AI systems — without revealing the models or data behind them. I'm currently focused on moving this work from research into practice, and on AI safety and technical AI governance more broadly.
 
-I am an Associate Professor in Computer Science – Computer Security at the [University of Birmingham, UK](https://www.birmingham.ac.uk) and Co-Founder & CTO of [Zeroth Research](https://zeroth.org), a non-profit startup making intelligent systems safe, with mathematical certainty.
+I am an Associate Professor in Computer Security at the [University of Birmingham, UK](https://www.birmingham.ac.uk) and Co-Founder & CTO of [Zeroth Research](https://zeroth.org), a non-profit making intelligent systems safe, with mathematical certainty.
 
 I currently lead an [ARIA](https://www.aria.org.uk/)-funded project on [privacy-preserving AI safety verification](https://aria.org.uk/opportunity-spaces/mathematics-for-safe-ai/safeguarded-ai/meet-the-creators/?tabId=scaffolding-sociotechnical-integration&cardId=privacy-preserving-ai-safety-verification) (with [Mirco Giacobbe](https://mircogiacobbe.github.io/) and [Yang Zhang](https://yangzhangalmo.github.io/)), developing foundations for verifying AI safety guarantees without revealing sensitive model or data details. I also lead a [Foresight Institute](https://foresight.org/)-funded project on ZK attestation for AI security (with [Luca Arnaboldi](http://arnaboldiluca.eu/)), and an [InnovateUK CyberASAP](https://iuk.ktn-uk.org/programme/cyber-asap/)-funded project on identifying money laundering on the blockchain.
 
@@ -35,7 +35,7 @@ Previously, I completed my PhD in the Information Security and Cryptography Grou
 
 ## research areas
 
-- AI Safety and Formal Verification
+- Verifiable AI Safety
 - Zero-Knowledge Proofs for AI and Blockchain
 - Security and Privacy of Machine Learning
 - Blockchain Security and Compliance

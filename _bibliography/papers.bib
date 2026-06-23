@@ -1,7 +1,19 @@
+@article{berrang2026zero,
+  title       = {Zero-Knowledge Model Checking},
+  author      = {Berrang, Pascal and Giacobbe, Mirco and Swales, Jacob and Yang, Xiao},
+  year        = {2026},
+  keywords    = {primary},
+  abbr        = {arXiv},
+  bibtex_show = {true},
+  arxiv       = {2605.00487},
+  abstract    = {We introduce a technology to formally verify that a software system satisfies a temporal specification of functional correctness, without revealing the system itself. Our method combines a deductive approach to model checking to obtain a formal certificate of correctness for the system, with zero-knowledge proofs to convince an external verifier that the system -- kept secret -- complies with its specification of correctness -- made public. We consider proof certificates represented as ranking functions, and introduce both an explicit-state and a symbolic scheme for model checking in zero knowledge. Our explicit-state scheme assumes systems represented as transition graphs. We use polynomial commitments to convince the verifier that the public proof certificates correspond to the secret transition relation. Our symbolic scheme assumes systems specified as linear guarded commands and uses piecewise-linear ranking functions. We apply Farkas' lemma to obtain a witness for the validity of the ranking function with public and secret components, and employ sigma protocols for matrix multiplication and range proofs to convince the verifier of the witness's existence. We built a prototype to demonstrate the practical efficacy of our two schemes on linear temporal logic verification examples. Our technology enables formal verification in domains where both the safety and the confidentiality of the system under analysis are critical.}
+}
+
 @article{kezins2026red,
   title={Beyond Red-Teaming: Formal Guarantees of LLM Guardrail Classifiers},
   author={Nikita Kezins and Urbas Ekka and Pascal Berrang and Luca Arnaboldi},
   year={2026},
+  keywords    = {primary},
   abbr        = {arXiv},
   bibtex_show = {true},
   arxiv       = {2605.10901}
@@ -12,10 +24,50 @@
   author      = {Liu, Endong and Ryan, Mark and Zhou, Liyi and Berrang, Pascal},
   year        = {2026},
   booktitle   = {Proceedings of the ACM Web Conference 2026 (WWW)},
-  keywords    = {primary},
+  keywords    = {secondary},
   abbr        = {WWW},
   bibtex_show = {true},
   arxiv       = {2507.11721}
+}
+
+@article{berrang2026revisiting,
+  title       = {Revisiting Assumptions for Membership Inference on Summary Statistics},
+  author      = {Berrang, Pascal and Ryan, Mark and Wooldridge, Kiera},
+  year        = {2026},
+  journal     = {Proceedings on Privacy Enhancing Technologies (PoPETs)},
+  keywords    = {primary},
+  abbr        = {PoPETs},
+  bibtex_show = {true}
+}
+
+@inproceedings{chatterjee2026trust,
+  title       = {Trust from Afar: Evaluating Remote Model Instances},
+  author      = {Chatterjee, Rishit and Dang, Alexandre and Kaufmann, Marc and Giacobbe, Mirco and Berrang, Pascal},
+  year        = {2026},
+  booktitle   = {ICML 2026 Workshop on Hypothesis Testing},
+  keywords    = {secondary},
+  abbr        = {ICML-W},
+  bibtex_show = {true}
+}
+
+@inproceedings{kaufmann2026detecting,
+  title       = {Detecting 4-Bit Adversaries at the Token Level},
+  author      = {Kaufmann, Marc and Chatterjee, Rishit and Dang, Alexandre and Giacobbe, Mirco and Berrang, Pascal},
+  year        = {2026},
+  booktitle   = {ICML 2026 Workshop on Hypothesis Testing},
+  keywords    = {secondary},
+  abbr        = {ICML-W},
+  bibtex_show = {true}
+}
+
+@inproceedings{kaufmann2026equivalence,
+  title       = {Equivalence Testing of Parametric Models via the Effective Dimension},
+  author      = {Kaufmann, Marc and Chatterjee, Rishit and Dang, Alexandre and Giacobbe, Mirco and Berrang, Pascal},
+  year        = {2026},
+  booktitle   = {ICML 2026 Workshop on Hypothesis Testing},
+  keywords    = {secondary},
+  abbr        = {ICML-W},
+  bibtex_show = {true}
 }
 
 @article{xiong2025talking,
@@ -359,15 +411,4 @@
   bibtex_show = {true},
   pdf         = {2024-1464.pdf},
   abstract    = {Local Differential Privacy (LDP) provides a formal guarantee of privacy that enables the collection and analysis of sensitive data without revealing any individual's data. While LDP methods have been extensively studied, there is a lack of a systematic and empirical comparison of LDP methods for descriptive statistics. In this paper, we first provide a systematization of LDP methods for descriptive statistics, comparing their properties and requirements. We demonstrate that several mean estimation methods based on sampling from a Bernoulli distribution are equivalent in the one-dimensional case and introduce methods for variance estimation. We then empirically compare methods for mean, variance, and frequency estimation. Finally, we provide recommendations for the use of LDP methods for descriptive statistics and discuss their limitations and open questions.}
-}
-
-@article{berrang2026zero,
-  title       = {Zero-Knowledge Model Checking},
-  author      = {Berrang, Pascal and Giacobbe, Mirco and Swales, Jacob and Yang, Xiao},
-  year        = {2026},
-  keywords    = {primary},
-  abbr        = {arXiv},
-  bibtex_show = {true},
-  arxiv       = {2605.00487},
-  abstract    = {We introduce a technology to formally verify that a software system satisfies a temporal specification of functional correctness, without revealing the system itself. Our method combines a deductive approach to model checking to obtain a formal certificate of correctness for the system, with zero-knowledge proofs to convince an external verifier that the system -- kept secret -- complies with its specification of correctness -- made public. We consider proof certificates represented as ranking functions, and introduce both an explicit-state and a symbolic scheme for model checking in zero knowledge. Our explicit-state scheme assumes systems represented as transition graphs. We use polynomial commitments to convince the verifier that the public proof certificates correspond to the secret transition relation. Our symbolic scheme assumes systems specified as linear guarded commands and uses piecewise-linear ranking functions. We apply Farkas' lemma to obtain a witness for the validity of the ranking function with public and secret components, and employ sigma protocols for matrix multiplication and range proofs to convince the verifier of the witness's existence. We built a prototype to demonstrate the practical efficacy of our two schemes on linear temporal logic verification examples. Our technology enables formal verification in domains where both the safety and the confidentiality of the system under analysis are critical.}
 }

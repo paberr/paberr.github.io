@@ -41,14 +41,14 @@ cv:
 
     Experience:
       - company: University of Birmingham
-        position: Associate Professor in Computer Science
+        position: Associate Professor in Computer Security
         location: Birmingham, UK
         url: https://birmingham.ac.uk
         start_date: 2024-10
-        summary: Promoted from Lecturer/Assistant Professor. Research in AI Safety, Cryptography, and Privacy.
+        summary: Promoted from Assistant Professor. Research in AI Safety, Cryptography, and Privacy.
 
       - company: University of Birmingham
-        position: Lecturer/Assistant Professor in Computer Science
+        position: Assistant Professor in Computer Security
         location: Birmingham, UK
         url: https://birmingham.ac.uk
         start_date: 2020-10
@@ -59,14 +59,14 @@ cv:
         location: Birmingham, UK
         url: https://zeroth.org
         start_date: 2025-07
-        summary: Non-profit startup making intelligent systems safe, with mathematical certainty.
+        summary: Non-profit making intelligent systems safe, with mathematical certainty.
 
       - company: Nimiq
-        position: Researcher
+        position: Research Lead & Consultant
         location: Munich, Germany
         url: https://nimiq.com
         start_date: 2017-04
-        summary: Applied cryptography, zero-knowledge proofs, and consensus protocols for a blockchain project.
+        summary: Recursive zk-SNARKs and consensus protocols — the origin of my zero-knowledge work.
 
       - company: CISPA Helmholtz Center for Information Security
         position: Research Assistant
