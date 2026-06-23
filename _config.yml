@@ -15,7 +15,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: AI safety, zero-knowledge proofs, cryptography, machine learning security, blockchain security, Pascal Berrang
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🎓 # the emoji used as the favicon
+icon: favicon.svg # PB monogram favicon (Direction A); see assets/img/favicon.svg
 
 url: https://paberr.github.io # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/
@@ -456,7 +456,7 @@ third_party_libraries:
     version: "5.5.0"
   google_fonts:
     url:
-      fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
+      fonts: "https://fonts.googleapis.com/css?family=Space+Grotesk:400,500,600,700|Inter:400,500,600,700|IBM+Plex+Mono:400,500,600|Material+Icons&display=swap"
   highlightjs:
     integrity:
       css:

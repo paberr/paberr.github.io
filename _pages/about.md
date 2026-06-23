@@ -35,7 +35,15 @@ Previously, I completed my PhD in the Information Security and Cryptography Grou
 
 ## research areas
 
-- Verifiable AI Safety
-- Zero-Knowledge Proofs for AI and Blockchain
-- Security and Privacy of Machine Learning
-- Blockchain Security and Compliance
+<div class="research-tags">
+  <span class="r-tag">Verifiable AI Safety</span>
+  <span class="r-tag">Zero-Knowledge Proofs for AI &amp; Blockchain</span>
+  <span class="r-tag">Security &amp; Privacy of Machine Learning</span>
+  <span class="r-tag">Blockchain Security &amp; Compliance</span>
+</div>
+
+<div class="about-actions">
+  <a class="pill-btn primary" href="{{ '/cv/' | relative_url }}">Curriculum Vitae</a>
+  <a class="pill-btn" href="{{ '/publications/' | relative_url }}">Publications</a>
+  <a class="pill-btn" href="https://scholar.google.com/citations?user=z46F9RgAAAAJ">Google Scholar</a>
+</div>

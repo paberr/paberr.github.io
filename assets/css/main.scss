@@ -33,6 +33,10 @@
 @use "tabs";
 @use "teachings";
 @use "typograms";
+
+// Direction A — custom overrides (loaded last so its rules win the cascade)
+@use "custom";
+
 @use "font-awesome/fontawesome";
 @use "font-awesome/brands";
 @use "font-awesome/solid";
