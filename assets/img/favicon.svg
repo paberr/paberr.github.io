@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="PB">
+  <rect width="100" height="100" rx="22" fill="#0b7285"/>
+  <text x="50" y="54" text-anchor="middle" dominant-baseline="central"
+        font-family="'Space Grotesk', 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-weight="700" font-size="50" letter-spacing="-2" fill="#ffffff">PB</text>
+</svg>
