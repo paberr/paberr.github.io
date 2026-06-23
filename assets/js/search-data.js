@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "Associate Professor in Computer Science at the University of Birmingham and Co-Founder &amp; CTO of Zeroth Research. Research focuses on AI Safety, Cryptography, and Privacy.",
+          description: "Associate Professor in Computer Security at the University of Birmingham and Co-Founder &amp; CTO of Zeroth Research. Research focuses on verifiable AI safety, zero-knowledge proofs, and privacy.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -43,8 +43,8 @@ ninja.data = [{
           section: "News",},{id: "news-awarded-aria-funding-for-our-project-on-privacy-preserving-ai-safety-verification-using-zero-knowledge-proofs-with-mirco-giacobbe-and-yang-zhang",
           title: 'Awarded ARIA funding for our project on privacy-preserving AI safety verification using zero-knowledge...',
           description: "",
-          section: "News",},{id: "news-launched-zeroth-research-a-non-profit-startup-making-intelligent-systems-safe-with-mathematical-certainty",
-          title: 'Launched Zeroth Research, a non-profit startup making intelligent systems safe, with mathematical certainty....',
+          section: "News",},{id: "news-launched-zeroth-research-a-non-profit-making-intelligent-systems-safe-with-mathematical-certainty",
+          title: 'Launched Zeroth Research, a non-profit making intelligent systems safe, with mathematical certainty.',
           description: "",
           section: "News",},{id: "news-awarded-a-foresight-institute-grant-for-zk-attestation-for-ai-security-with-luca-arnaboldi",
           title: 'Awarded a Foresight Institute grant for ZK attestation for AI security (with Luca...',
@@ -67,7 +67,7 @@ ninja.data = [{
               window.location.href = "/projects/blockchain_aml/";
             },},{id: "projects-nimiq-blockchain",
           title: 'Nimiq Blockchain',
-          description: "Researcher since 2017. Applied cryptography, zero-knowledge proofs, and consensus protocols.",
+          description: "Research Lead &amp; Consultant since 2017. Recursive zk-SNARKs and consensus protocols — the origin of my zero-knowledge work.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nimiq/";
             },},{id: "projects-proving-safety-properties-of-guardrail-models",
@@ -82,7 +82,7 @@ ninja.data = [{
               window.location.href = "/projects/spar_model_equality/";
             },},{id: "projects-zeroth-research",
           title: 'Zeroth Research',
-          description: "Non-profit startup making intelligent systems safe, with mathematical certainty.",
+          description: "Non-profit making intelligent systems safe, with mathematical certainty.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/zeroth_research/";
             },},{id: "projects-zk-attestation-for-ai-security",
