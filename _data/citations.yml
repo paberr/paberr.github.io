@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-07-03'
 papers:
   z46F9RgAAAAJ:-f6ydRqryjwC:
-    citations: 66
+    citations: 70
     title: Fine-tuning is all you need to mitigate backdoor attacks
     year: '2022'
   z46F9RgAAAAJ:0EnyYjriUFMC:
-    citations: 35
+    citations: 36
     title: On profile linkability despite anonymity in social media systems
     year: '2016'
   z46F9RgAAAAJ:3fE2CSJIrl8C:
@@ -58,7 +58,7 @@ papers:
     title: 'How well do you blend into the crowd?-d-convergence: A novel paradigm for quantifying privacy in the age of Big-Data'
     year: '2015'
   z46F9RgAAAAJ:QIV2ME_5wuYC:
-    citations: 92
+    citations: 93
     title: On how zero-knowledge proof blockchain mixers improve, and worsen user privacy
     year: '2023'
   z46F9RgAAAAJ:R3hNpaxXUhUC:
@@ -74,7 +74,7 @@ papers:
     title: "From Zoos to Safaris\u2014From Closed-World Enforcement to Open-World Assessment of Privacy"
     year: '2015'
   z46F9RgAAAAJ:TQgYirikUcIC:
-    citations: 16
+    citations: 18
     title: Quantifying privacy risks of prompts in visual prompt learning
     year: '2024'
   z46F9RgAAAAJ:Tyk-4Ss8FVUC:
@@ -114,7 +114,7 @@ papers:
     title: How well do you blend into the crowd?
     year: '2015'
   z46F9RgAAAAJ:Zph67rFs4hoC:
-    citations: 64
+    citations: 65
     title: 'MBeacon: Privacy-preserving beacons for DNA methylation data'
     year: '2019'
   z46F9RgAAAAJ:_FxGoFyzp5QC:
@@ -130,7 +130,7 @@ papers:
     title: Privacy-preserving similar patient queries for combined biomedical data
     year: '2019'
   z46F9RgAAAAJ:aqlVkmm33-oC:
-    citations: 1467
+    citations: 1489
     title: 'Ml-leaks: Model and data independent membership inference attacks and defenses on machine learning models'
     year: '2018'
   z46F9RgAAAAJ:bEWYMUwI8FkC:
@@ -146,7 +146,7 @@ papers:
     title: "Measuring Conditional Anonymity\u2014A Global Study"
     year: '2024'
   z46F9RgAAAAJ:hC7cP41nSMkC:
-    citations: 90
+    citations: 93
     title: Data poisoning attacks against multimodal encoders
     year: '2023'
   z46F9RgAAAAJ:hFOr9nPyWt4C:
@@ -178,8 +178,8 @@ papers:
     title: 'Poster: Membership Inference Against DNA Methylation Databases: Attacks and Defenses'
     year: Unknown Year
   z46F9RgAAAAJ:r0BpntZqJG4C:
-    citations: 6
-    title: Evasion Under Blockchain Sanctions
+    citations: 7
+    title: Evasion under blockchain sanctions
     year: '2026'
   z46F9RgAAAAJ:roLk4NBRz8UC:
     citations: 41
