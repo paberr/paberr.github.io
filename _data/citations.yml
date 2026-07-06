@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-06'
 papers:
   z46F9RgAAAAJ:-f6ydRqryjwC:
-    citations: 70
+    citations: 71
     title: Fine-tuning is all you need to mitigate backdoor attacks
     year: '2022'
   z46F9RgAAAAJ:0EnyYjriUFMC:
@@ -130,7 +130,7 @@ papers:
     title: Privacy-preserving similar patient queries for combined biomedical data
     year: '2019'
   z46F9RgAAAAJ:aqlVkmm33-oC:
-    citations: 1489
+    citations: 1491
     title: 'Ml-leaks: Model and data independent membership inference attacks and defenses on machine learning models'
     year: '2018'
   z46F9RgAAAAJ:bEWYMUwI8FkC:
@@ -146,7 +146,7 @@ papers:
     title: "Measuring Conditional Anonymity\u2014A Global Study"
     year: '2024'
   z46F9RgAAAAJ:hC7cP41nSMkC:
-    citations: 93
+    citations: 94
     title: Data poisoning attacks against multimodal encoders
     year: '2023'
   z46F9RgAAAAJ:hFOr9nPyWt4C:
@@ -182,7 +182,7 @@ papers:
     title: Evasion under blockchain sanctions
     year: '2026'
   z46F9RgAAAAJ:roLk4NBRz8UC:
-    citations: 41
+    citations: 40
     title: 'Privacy in Epigenetics: Temporal Linkability of MicroRNA Expression Profiles'
     year: Unknown Year
   z46F9RgAAAAJ:u5HHmVD_uO8C:
