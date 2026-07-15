@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-15'
 papers:
   z46F9RgAAAAJ:-f6ydRqryjwC:
-    citations: 71
+    citations: 72
     title: Fine-tuning is all you need to mitigate backdoor attacks
     year: '2022'
   z46F9RgAAAAJ:0EnyYjriUFMC:
@@ -58,7 +58,7 @@ papers:
     title: 'How well do you blend into the crowd?-d-convergence: A novel paradigm for quantifying privacy in the age of Big-Data'
     year: '2015'
   z46F9RgAAAAJ:QIV2ME_5wuYC:
-    citations: 93
+    citations: 94
     title: On how zero-knowledge proof blockchain mixers improve, and worsen user privacy
     year: '2023'
   z46F9RgAAAAJ:R3hNpaxXUhUC:
@@ -73,6 +73,10 @@ papers:
     citations: 3
     title: "From Zoos to Safaris\u2014From Closed-World Enforcement to Open-World Assessment of Privacy"
     year: '2015'
+  z46F9RgAAAAJ:TFP_iSt0sucC:
+    citations: 0
+    title: 'Trust from afar: Evaluating remote model instances'
+    year: Unknown Year
   z46F9RgAAAAJ:TQgYirikUcIC:
     citations: 18
     title: Quantifying privacy risks of prompts in visual prompt learning
@@ -130,7 +134,7 @@ papers:
     title: Privacy-preserving similar patient queries for combined biomedical data
     year: '2019'
   z46F9RgAAAAJ:aqlVkmm33-oC:
-    citations: 1491
+    citations: 1495
     title: 'Ml-leaks: Model and data independent membership inference attacks and defenses on machine learning models'
     year: '2018'
   z46F9RgAAAAJ:bEWYMUwI8FkC:
@@ -146,7 +150,7 @@ papers:
     title: "Measuring Conditional Anonymity\u2014A Global Study"
     year: '2024'
   z46F9RgAAAAJ:hC7cP41nSMkC:
-    citations: 94
+    citations: 95
     title: Data poisoning attacks against multimodal encoders
     year: '2023'
   z46F9RgAAAAJ:hFOr9nPyWt4C:
@@ -157,6 +161,10 @@ papers:
     citations: 0
     title: Zero-Knowledge Model Checking
     year: '2026'
+  z46F9RgAAAAJ:isC4tDSrTZIC:
+    citations: 0
+    title: Detecting 4-Bit Adversaries at the Token Level
+    year: Unknown Year
   z46F9RgAAAAJ:j3f4tGmQtD8C:
     citations: 0
     title: IEEE Blockchain 2023 Program Committee
@@ -165,6 +173,10 @@ papers:
     citations: 31
     title: Dissecting privacy risks in biomedical data
     year: '2018'
+  z46F9RgAAAAJ:k_IJM867U9cC:
+    citations: 0
+    title: Equivalence Testing of Parametric Models via the Effective Dimension
+    year: Unknown Year
   z46F9RgAAAAJ:mB3voiENLucC:
     citations: 0
     title: Security Competitions
@@ -178,7 +190,7 @@ papers:
     title: 'Poster: Membership Inference Against DNA Methylation Databases: Attacks and Defenses'
     year: Unknown Year
   z46F9RgAAAAJ:r0BpntZqJG4C:
-    citations: 7
+    citations: 8
     title: Evasion under blockchain sanctions
     year: '2026'
   z46F9RgAAAAJ:roLk4NBRz8UC:
