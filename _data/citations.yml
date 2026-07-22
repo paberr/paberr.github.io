@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-07-22'
 papers:
   z46F9RgAAAAJ:-f6ydRqryjwC:
     citations: 72
@@ -58,7 +58,7 @@ papers:
     title: 'How well do you blend into the crowd?-d-convergence: A novel paradigm for quantifying privacy in the age of Big-Data'
     year: '2015'
   z46F9RgAAAAJ:QIV2ME_5wuYC:
-    citations: 94
+    citations: 95
     title: On how zero-knowledge proof blockchain mixers improve, and worsen user privacy
     year: '2023'
   z46F9RgAAAAJ:R3hNpaxXUhUC:
@@ -78,7 +78,7 @@ papers:
     title: 'Trust from afar: Evaluating remote model instances'
     year: Unknown Year
   z46F9RgAAAAJ:TQgYirikUcIC:
-    citations: 18
+    citations: 19
     title: Quantifying privacy risks of prompts in visual prompt learning
     year: '2024'
   z46F9RgAAAAJ:Tyk-4Ss8FVUC:
@@ -90,7 +90,7 @@ papers:
     title: EuroSP 2018
     year: Unknown Year
   z46F9RgAAAAJ:UebtZRa9Y70C:
-    citations: 199
+    citations: 200
     title: Membership privacy in MicroRNA-based studies
     year: '2016'
   z46F9RgAAAAJ:W7OEmFMy1HYC:
@@ -102,7 +102,7 @@ papers:
     title: From Closed-world Enforcement to Open-world Assessment of Privacy
     year: '2015'
   z46F9RgAAAAJ:Wp0gIr-vW9MC:
-    citations: 13
+    citations: 14
     title: Membership inference against DNA methylation databases
     year: '2020'
   z46F9RgAAAAJ:Y0pCki6q_DkC:
@@ -134,7 +134,7 @@ papers:
     title: Privacy-preserving similar patient queries for combined biomedical data
     year: '2019'
   z46F9RgAAAAJ:aqlVkmm33-oC:
-    citations: 1498
+    citations: 1506
     title: 'Ml-leaks: Model and data independent membership inference attacks and defenses on machine learning models'
     year: '2018'
   z46F9RgAAAAJ:bEWYMUwI8FkC:
@@ -150,7 +150,7 @@ papers:
     title: "Measuring Conditional Anonymity\u2014A Global Study"
     year: '2024'
   z46F9RgAAAAJ:hC7cP41nSMkC:
-    citations: 95
+    citations: 97
     title: Data poisoning attacks against multimodal encoders
     year: '2023'
   z46F9RgAAAAJ:hFOr9nPyWt4C:
@@ -181,6 +181,10 @@ papers:
     citations: 0
     title: Security Competitions
     year: '2016'
+  z46F9RgAAAAJ:maZDTaKrznsC:
+    citations: 0
+    title: Revisiting Assumptions for Membership Inference on Summary Statistics
+    year: '2026'
   z46F9RgAAAAJ:qUcmZB5y_30C:
     citations: 20
     title: A framework for constructing single secret leader election from MPC
