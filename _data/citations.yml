@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-07-27'
 papers:
   z46F9RgAAAAJ:-f6ydRqryjwC:
     citations: 72
@@ -44,7 +44,7 @@ papers:
   z46F9RgAAAAJ:IWHjjKOFINEC:
     citations: 5
     title: Accountable javascript code delivery
-    year: '2022'
+    year: '2023'
   z46F9RgAAAAJ:L8Ckcad2t8MC:
     citations: 1
     title: Survey of Consensus Protocols and Scalability Solutions
@@ -58,7 +58,7 @@ papers:
     title: 'How well do you blend into the crowd?-d-convergence: A novel paradigm for quantifying privacy in the age of Big-Data'
     year: '2015'
   z46F9RgAAAAJ:QIV2ME_5wuYC:
-    citations: 95
+    citations: 96
     title: On how zero-knowledge proof blockchain mixers improve, and worsen user privacy
     year: '2023'
   z46F9RgAAAAJ:R3hNpaxXUhUC:
@@ -80,7 +80,7 @@ papers:
   z46F9RgAAAAJ:TQgYirikUcIC:
     citations: 19
     title: Quantifying privacy risks of prompts in visual prompt learning
-    year: '2024'
+    year: '2023'
   z46F9RgAAAAJ:Tyk-4Ss8FVUC:
     citations: 5
     title: Hundert Jahre Quizze-und nichts dazugelernt?(Visionen & Konzepte)
@@ -102,7 +102,7 @@ papers:
     title: From Closed-world Enforcement to Open-world Assessment of Privacy
     year: '2015'
   z46F9RgAAAAJ:Wp0gIr-vW9MC:
-    citations: 14
+    citations: 15
     title: Membership inference against DNA methylation databases
     year: '2020'
   z46F9RgAAAAJ:Y0pCki6q_DkC:
@@ -134,9 +134,9 @@ papers:
     title: Privacy-preserving similar patient queries for combined biomedical data
     year: '2019'
   z46F9RgAAAAJ:aqlVkmm33-oC:
-    citations: 1508
+    citations: 1514
     title: 'Ml-leaks: Model and data independent membership inference attacks and defenses on machine learning models'
-    year: '2018'
+    year: '2019'
   z46F9RgAAAAJ:bEWYMUwI8FkC:
     citations: 0
     title: 'Beyond Red-Teaming: Formal Guarantees of LLM Guardrail Classifiers'
