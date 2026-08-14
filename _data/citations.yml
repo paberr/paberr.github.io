@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-14'
 papers:
   z46F9RgAAAAJ:-f6ydRqryjwC:
-    citations: 72
+    citations: 74
     title: Fine-tuning is all you need to mitigate backdoor attacks
     year: '2022'
   z46F9RgAAAAJ:0EnyYjriUFMC:
@@ -10,7 +10,7 @@ papers:
     title: On profile linkability despite anonymity in social media systems
     year: '2016'
   z46F9RgAAAAJ:3fE2CSJIrl8C:
-    citations: 7
+    citations: 6
     title: "Anonymisierungsverfahren f\xFCr genetische Daten"
     year: '2018'
   z46F9RgAAAAJ:4DMP91E08xMC:
@@ -19,32 +19,28 @@ papers:
     year: Unknown Year
   z46F9RgAAAAJ:4JMBOYKVnBMC:
     citations: 1
-    title: '3S-Attack: Spatial, Spectral and Semantic Invisible Backdoor Attack Against DNN Models'
+    title: '3s-attack: Spatial, spectral and semantic invisible backdoor attack against DNN models'
     year: '2025'
   z46F9RgAAAAJ:4TOpqqG69KYC:
     citations: 0
     title: 'Poster: MBeacon: Privacy-preserving Beacons for DNA Methylation Data'
     year: Unknown Year
   z46F9RgAAAAJ:5nxA0vEk-isC:
-    citations: 28
+    citations: 29
     title: Simulating the large-scale erosion of genomic privacy over time
     year: '2018'
   z46F9RgAAAAJ:7PzlFSSx8tAC:
-    citations: 22
+    citations: 23
     title: "Albatross\u2013an optimistic consensus algorithm"
     year: '2019'
   z46F9RgAAAAJ:8k81kl-MbHgC:
-    citations: 46
+    citations: 45
     title: Identifying personal DNA methylation profiles by genotype inference
     year: '2017'
-  z46F9RgAAAAJ:HDshCWvjkbEC:
-    citations: 0
-    title: "Quantifizierung und Schutz der Privatsph\xE4re in der (Epi-) genetik1"
-    year: Unknown Year
   z46F9RgAAAAJ:IWHjjKOFINEC:
     citations: 5
     title: Accountable javascript code delivery
-    year: '2023'
+    year: '2022'
   z46F9RgAAAAJ:L8Ckcad2t8MC:
     citations: 1
     title: Survey of Consensus Protocols and Scalability Solutions
@@ -78,19 +74,19 @@ papers:
     title: 'Trust from afar: Evaluating remote model instances'
     year: Unknown Year
   z46F9RgAAAAJ:TQgYirikUcIC:
-    citations: 19
+    citations: 18
     title: Quantifying privacy risks of prompts in visual prompt learning
-    year: '2023'
+    year: '2024'
   z46F9RgAAAAJ:Tyk-4Ss8FVUC:
     citations: 5
-    title: Hundert Jahre Quizze-und nichts dazugelernt?(Visionen & Konzepte)
+    title: "Hundert Jahre Quizze\u2013und nichts dazugelernt?(Visionen & Konzepte)"
     year: '2014'
   z46F9RgAAAAJ:ULOm3_A8WrAC:
     citations: 0
     title: EuroSP 2018
     year: Unknown Year
   z46F9RgAAAAJ:UebtZRa9Y70C:
-    citations: 200
+    citations: 195
     title: Membership privacy in MicroRNA-based studies
     year: '2016'
   z46F9RgAAAAJ:W7OEmFMy1HYC:
@@ -110,7 +106,7 @@ papers:
     title: 'Poster: Assessing the effectiveness of countermeasures against authorship recognition'
     year: '2015'
   z46F9RgAAAAJ:YOwf2qJgpHMC:
-    citations: 2
+    citations: 1
     title: Quantifying and mitigating privacy risks in biomedical data
     year: '2017'
   z46F9RgAAAAJ:YsMSGLbcyi4C:
@@ -118,7 +114,7 @@ papers:
     title: How well do you blend into the crowd?
     year: '2015'
   z46F9RgAAAAJ:Zph67rFs4hoC:
-    citations: 65
+    citations: 63
     title: 'MBeacon: Privacy-preserving beacons for DNA methylation data'
     year: '2019'
   z46F9RgAAAAJ:_FxGoFyzp5QC:
@@ -126,7 +122,7 @@ papers:
     title: Tracking Personal MicroRNA Expression Profiles over Time
     year: '2016'
   z46F9RgAAAAJ:_Qo2XoVZTnwC:
-    citations: 6
+    citations: 9
     title: 'SoK: Descriptive statistics under local differential privacy'
     year: '2025'
   z46F9RgAAAAJ:_kc_bZDykSQC:
@@ -134,23 +130,23 @@ papers:
     title: Privacy-preserving similar patient queries for combined biomedical data
     year: '2019'
   z46F9RgAAAAJ:aqlVkmm33-oC:
-    citations: 1514
+    citations: 1525
     title: 'Ml-leaks: Model and data independent membership inference attacks and defenses on machine learning models'
-    year: '2019'
+    year: '2018'
   z46F9RgAAAAJ:bEWYMUwI8FkC:
-    citations: 0
+    citations: 1
     title: 'Beyond Red-Teaming: Formal Guarantees of LLM Guardrail Classifiers'
     year: '2026'
   z46F9RgAAAAJ:d1gkVwhDpl0C:
-    citations: 25
+    citations: 24
     title: A comparative analysis of decentralized power grid stabilization strategies
     year: '2012'
   z46F9RgAAAAJ:e5wmG9Sq2KIC:
     citations: 5
-    title: "Measuring Conditional Anonymity\u2014A Global Study"
+    title: Measuring conditional anonymity-a global study
     year: '2024'
   z46F9RgAAAAJ:hC7cP41nSMkC:
-    citations: 97
+    citations: 102
     title: Data poisoning attacks against multimodal encoders
     year: '2023'
   z46F9RgAAAAJ:hFOr9nPyWt4C:
@@ -158,7 +154,7 @@ papers:
     title: 2018 Index IEEE/ACM Transactions on Computational Biology and Bioinformatics Vol. 15
     year: '2019'
   z46F9RgAAAAJ:iH-uZ7U-co4C:
-    citations: 0
+    citations: 1
     title: Zero-Knowledge Model Checking
     year: '2026'
   z46F9RgAAAAJ:isC4tDSrTZIC:
@@ -186,7 +182,7 @@ papers:
     title: Revisiting Assumptions for Membership Inference on Summary Statistics
     year: '2026'
   z46F9RgAAAAJ:qUcmZB5y_30C:
-    citations: 20
+    citations: 21
     title: A framework for constructing single secret leader election from MPC
     year: '2022'
   z46F9RgAAAAJ:qxL8FJ1GzNcC:
@@ -194,11 +190,11 @@ papers:
     title: 'Poster: Membership Inference Against DNA Methylation Databases: Attacks and Defenses'
     year: Unknown Year
   z46F9RgAAAAJ:r0BpntZqJG4C:
-    citations: 8
+    citations: 4
     title: Evasion under blockchain sanctions
     year: '2026'
   z46F9RgAAAAJ:roLk4NBRz8UC:
-    citations: 40
+    citations: 41
     title: 'Privacy in Epigenetics: Temporal Linkability of MicroRNA Expression Profiles'
     year: Unknown Year
   z46F9RgAAAAJ:u5HHmVD_uO8C:
