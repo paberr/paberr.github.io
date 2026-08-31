@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-31'
 papers:
   z46F9RgAAAAJ:-f6ydRqryjwC:
     citations: 75
@@ -54,11 +54,11 @@ papers:
     title: 'How well do you blend into the crowd?-d-convergence: A novel paradigm for quantifying privacy in the age of Big-Data'
     year: '2015'
   z46F9RgAAAAJ:QIV2ME_5wuYC:
-    citations: 96
+    citations: 97
     title: On how zero-knowledge proof blockchain mixers improve, and worsen user privacy
     year: '2023'
   z46F9RgAAAAJ:R3hNpaxXUhUC:
-    citations: 13
+    citations: 14
     title: Link stealing attacks against inductive graph neural networks
     year: '2024'
   z46F9RgAAAAJ:RHpTSmoSYBkC:
@@ -74,7 +74,7 @@ papers:
     title: 'Trust from afar: Evaluating remote model instances'
     year: Unknown Year
   z46F9RgAAAAJ:TQgYirikUcIC:
-    citations: 18
+    citations: 20
     title: Quantifying privacy risks of prompts in visual prompt learning
     year: '2024'
   z46F9RgAAAAJ:Tyk-4Ss8FVUC:
@@ -130,7 +130,7 @@ papers:
     title: Privacy-preserving similar patient queries for combined biomedical data
     year: '2019'
   z46F9RgAAAAJ:aqlVkmm33-oC:
-    citations: 1528
+    citations: 1538
     title: 'Ml-leaks: Model and data independent membership inference attacks and defenses on machine learning models'
     year: '2018'
   z46F9RgAAAAJ:bEWYMUwI8FkC:
@@ -146,7 +146,7 @@ papers:
     title: Measuring conditional anonymity-a global study
     year: '2024'
   z46F9RgAAAAJ:hC7cP41nSMkC:
-    citations: 102
+    citations: 103
     title: Data poisoning attacks against multimodal encoders
     year: '2023'
   z46F9RgAAAAJ:hFOr9nPyWt4C:
