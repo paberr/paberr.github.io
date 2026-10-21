@@ -177,6 +177,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/pascal-berrang", "_blank");
         },
       },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/paberr", "_blank");
+        },
+      },{
         id: 'social-dblp',
         title: 'DBLP',
         section: 'Socials',
