@@ -1,7 +1,7 @@
 cv:
   name: Pascal Berrang
   email: contact@paberr.net
-  location: Birmingham, UK
+  location: Birmingham, UK and Munich, Germany
 
   social_networks:
     - network: GitHub
@@ -40,36 +40,62 @@ cv:
         score: "A (1.1)"
 
     Experience:
+      - company: Singapore AI Safety Hub (SASH)
+        position: Tech Lead – AI Verification
+        location: Munich, Germany
+        url: https://aisafety.sg
+        start_date: 2026-10
+        summary: Leading SASH's technical work on AI verification.
+
       - company: University of Birmingham
         position: Associate Professor in Computer Security
         location: Birmingham, UK
         url: https://birmingham.ac.uk
         start_date: 2024-10
-        summary: Promoted from Assistant Professor. Research in AI Safety, Cryptography, and Privacy.
+        summary: Creator of an ARIA-funded research program on privacy-preserving AI safety verification, applying cryptographic techniques such as zero-knowledge proofs to enable verifiable guarantees in AI systems.
 
       - company: University of Birmingham
         position: Assistant Professor in Computer Security
         location: Birmingham, UK
         url: https://birmingham.ac.uk
         start_date: 2020-10
-        end_date: 2024-10
+        end_date: 2024-09
+
+      - company: Zeroth Research
+        position: Associate Member
+        location: Birmingham, UK
+        url: https://zeroth.org
+        start_date: 2026-10
 
       - company: Zeroth Research
         position: Co-Founder & CTO
         location: Birmingham, UK
         url: https://zeroth.org
         start_date: 2025-07
+        end_date: 2026-10
         summary: Non-profit making intelligent systems safe, with mathematical certainty.
 
+      - company: Independent Security Consulting
+        position: Founder & Consultant
+        location: Munich, Germany
+        start_date: 2017-04
+        summary: Independent consulting and research in security, privacy, and blockchain systems.
+        highlights:
+          - "timefonds AG (2021–2026): Threat modelling, architecture review, and support for ISO 27001 certification."
+          - "OpenRedact (2019–2020): Open-source anonymization tool funded by the Prototype Fund; designed and implemented core privacy mechanisms."
+
       - company: Nimiq
-        position: Research Lead & Consultant
+        position: Researcher
         location: Munich, Germany
         url: https://nimiq.com
         start_date: 2017-04
+        end_date: 2026-08
         summary: Recursive zk-SNARKs and consensus protocols — the origin of my zero-knowledge work.
+        highlights:
+          - "Board member of the Nimiq Foundation (2019–2026)."
 
       - company: CISPA Helmholtz Center for Information Security
-        position: Research Assistant
+        position: Researcher in IT Security & Privacy (PhD)
         location: Saarbrücken, Germany
         url: https://cispa.de
         start_date: 2014-06
