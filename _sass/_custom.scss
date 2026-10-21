@@ -160,3 +160,34 @@ samp,
     transform: none;
   }
 }
+
+// ---- Homepage lede + current roles ---------------------------------------
+.lede {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin-bottom: 1.2rem;
+}
+
+.current-roles {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin: 0 0 1.4rem;
+  padding: 0.75rem 1rem;
+  border-left: 3px solid var(--global-theme-color);
+  background: color-mix(in srgb, var(--global-theme-color) 6%, transparent);
+  border-radius: 0 9px 9px 0;
+}
+
+.current-roles .role {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 0.6rem;
+  align-items: baseline;
+}
+
+.current-roles .role-title {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.85rem;
+  font-weight: 600;
+}

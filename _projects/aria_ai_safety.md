@@ -3,6 +3,7 @@ layout: page
 title: Privacy-preserving AI Safety Verification
 description: ARIA-funded project developing mathematical foundations for verifying AI safety guarantees without revealing sensitive model or data details.
 importance: 2
+category: current
 ---
 
 **Problem.** As AI systems are deployed in high-stakes settings, we need ways to verify they meet safety guarantees. But safety verification typically requires access to model internals and training data — creating tensions with intellectual property and data privacy.

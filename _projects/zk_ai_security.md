@@ -2,7 +2,8 @@
 layout: page
 title: ZK Attestation for AI Security
 description: Foresight Institute grant exploring zero-knowledge attestation mechanisms for AI security and integrity.
-importance: 4
+importance: 3
+category: current
 ---
 
 **Problem.** AI models are increasingly deployed as black boxes. Users, regulators, and auditors need to verify that these models are trustworthy — authentic, unaltered, fair, and free of hidden malicious behaviour — without the model owner having to reveal proprietary details.

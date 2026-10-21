@@ -6,6 +6,7 @@ description: Research projects and ventures.
 nav: true
 nav_order: 3
 horizontal: false
+display_categories: [current, past]
 ---
 
 <!-- pages/projects.md -->

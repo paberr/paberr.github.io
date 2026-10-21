@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Identifying Money Laundering on the Blockchain
-description: InnovateUK CyberASAP funded project developing modern blockchain AML techniques with low false-positive rates.
-importance: 3
+description: Completed InnovateUK CyberASAP project developing modern blockchain AML techniques with low false-positive rates.
+importance: 6
+category: past
 ---
 
 **Problem.** Existing anti-money laundering (AML) tools for blockchain produce high false-positive rates, burdening compliance teams and missing sophisticated laundering patterns.
