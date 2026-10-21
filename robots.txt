@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://paberr.github.io//sitemap.xml
+Sitemap: https://pascal-berrang.de/sitemap.xml

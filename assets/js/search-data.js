@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "Associate Professor in Computer Security at the University of Birmingham and Co-Founder &amp; CTO of Zeroth Research. Research focuses on verifiable AI safety, zero-knowledge proofs, and privacy.",
+          description: "Associate Professor in Computer Security at the University of Birmingham and Tech Lead for AI Verification at the Singapore AI Safety Hub (SASH). Research focuses on verifiable AI safety, zero-knowledge proofs, and privacy.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -55,6 +55,9 @@ ninja.data = [{
           section: "News",},{id: "news-mentoring-two-spar-spring-2026-projects-proving-model-equality-in-zero-knowledge-and-proving-safety-properties-of-guardrail-models",
           title: 'Mentoring two SPAR Spring 2026 projects: Proving Model Equality in Zero-Knowledge and Proving...',
           description: "",
+          section: "News",},{id: "news-joined-the-singapore-ai-safety-hub-sash-as-tech-lead-for-ai-verification-leading-its-technical-work-on-verifying-ai-systems-i-remain-at-the-university-of-birmingham-and-stay-involved-with-zeroth-research-as-an-associate-member",
+          title: 'Joined the Singapore AI Safety Hub (SASH) as Tech Lead for AI Verification,...',
+          description: "",
           section: "News",},{id: "projects-privacy-preserving-ai-safety-verification",
           title: 'Privacy-preserving AI Safety Verification',
           description: "ARIA-funded project developing mathematical foundations for verifying AI safety guarantees without revealing sensitive model or data details.",
@@ -62,27 +65,27 @@ ninja.data = [{
               window.location.href = "/projects/aria_ai_safety/";
             },},{id: "projects-identifying-money-laundering-on-the-blockchain",
           title: 'Identifying Money Laundering on the Blockchain',
-          description: "InnovateUK CyberASAP funded project developing modern blockchain AML techniques with low false-positive rates.",
+          description: "Completed InnovateUK CyberASAP project developing modern blockchain AML techniques with low false-positive rates.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/blockchain_aml/";
             },},{id: "projects-nimiq-blockchain",
           title: 'Nimiq Blockchain',
-          description: "Research Lead &amp; Consultant since 2017. Recursive zk-SNARKs and consensus protocols — the origin of my zero-knowledge work.",
+          description: "Researcher 2017–2026 and Nimiq Foundation board member 2019–2026. Recursive zk-SNARKs and consensus protocols — the origin of my zero-knowledge work.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nimiq/";
-            },},{id: "projects-proving-safety-properties-of-guardrail-models",
-          title: 'Proving Safety Properties of Guardrail Models',
-          description: "SPAR Spring 2026: Formal verification of constitutional classifiers and guardrail models for AI safety.",
+            },},{id: "projects-verifiable-ai-inference",
+          title: 'Verifiable AI Inference',
+          description: "Open-source zero-knowledge prover for LLM inference, making international AI agreements verifiable. At the Singapore AI Safety Hub (SASH).",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/spar_guardrail_verification/";
-            },},{id: "projects-proving-model-equality-in-zero-knowledge",
-          title: 'Proving Model Equality in Zero-Knowledge',
-          description: "SPAR Spring 2026: Using ZKPs and challenge-response protocols to prove a deployed model matches a reference without revealing weights.",
+              window.location.href = "/projects/sash_verifiable_inference/";
+            },},{id: "projects-spar-mentoring",
+          title: 'SPAR Mentoring',
+          description: "SPAR Spring 2026: two mentorship projects bridging AI safety and zero-knowledge proofs.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/spar_model_equality/";
+              window.location.href = "/projects/spar_mentoring/";
             },},{id: "projects-zeroth-research",
           title: 'Zeroth Research',
-          description: "Non-profit making intelligent systems safe, with mathematical certainty.",
+          description: "Co-founded in 2025 (CTO until 2026); now Associate Member. Non-profit making intelligent systems safe, with mathematical certainty.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/zeroth_research/";
             },},{id: "projects-zk-attestation-for-ai-security",
@@ -171,7 +174,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/pascal-berrang-53287999", "_blank");
+          window.open("https://www.linkedin.com/in/pascal-berrang", "_blank");
         },
       },{
         id: 'social-dblp',
